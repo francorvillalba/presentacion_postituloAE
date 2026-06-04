@@ -88,7 +88,7 @@
     "titulo": "Trayecto III: Diplomatura Superior Agroecología en la Escuela",
     "texto": [{"Modulo": "Soberanía Alimentaria y Economía Social", "Fechas": "29/10 -virtual-, 05/11 presencial y 12/11 virtual"},
       {"Modulo": "Problemáticas Socioambientales y Derecho a la Alimentación", "Fechas": " 19/11 -virtual-, 26/11 presencial"},
-      {"Modulo": "Trabajo Final Diplomatura Superior (Implementación de una actividad Educativo)", "Fechas": "3 de Diciembre"},
+      {"Modulo": "Trabajo Final Diplomatura Superior (Implementación de una actividad Educativa)", "Fechas": "3 de Diciembre"},
       {"Modulo": "Carga Horaria Total", "Fechas": "600 hs reloj"}],
     "imagen": "/imagenes/cocina.jpg",
     "plantilla": "texto-derecha",
@@ -146,9 +146,9 @@
     "id": 13,
     "titulo": "Los Trabajos Integradores Finales",
     "texto": [
-      "Trayecto I: Informe descriptivo y diagnóstico de una parcela escolar (factores bióticos, abióticos e inserción en el PEI/PCI).",
-      "Trayecto II: Proyecto educativo basado en el diagnóstico anterior, formulando modelos de diseño y transición agroecológica.",
-      "Trayecto III: Ejecución, análisis e integración completa del proyecto con la comunidad educativa, sumando un marco teórico sólido."
+      "Trayecto I: Informe descriptivo y diagnóstico de un espacio productivo escolar",
+      "Trayecto II: Proyecto educativo agroecológico basado en el diagnóstico anterior",
+      "Trayecto III: Ejecución de una actividad pedagógica agroecológica."
     ],
     "imagen": "/imagenes/trabajo.jpeg",
     "plantilla": "texto-izquierda",
