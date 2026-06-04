@@ -1,0 +1,288 @@
+[
+  {
+    "id": 1,
+    "titulo": "Postítulo Docente: Agroecología en la Escuela",
+    "texto": [
+      "Clase Inaugural - Cohorte 2026",
+      "RES MECyT 253/26", 
+      "RES CD FCF N° 437/2024",
+      "Universidad Nacional de Misiones (UNaM) - Facultad de Ciencias Forestales (FCF)"
+    ],
+    "imagen": "/imagenes/portada.jpg",
+    "plantilla": "portada",
+    "formatotexto": "parrafo"
+  },
+  {
+    "id": 2,
+    "titulo": "Encuadre Institucional y Destinatarios",
+    "texto": [
+      "Dictado por Facultad de Ciencias Forestales (FCF), Eldorado, Misiones en articulación con la Red de Agricultura Orgánica de Misiones y otras organizaciones del campo como la  Sociedad Argentina de Agroecología, la  Red CALySAS y el MAELA",
+      "Destinatarios: Docentes de nivel inicial, primario, secundario y superior."
+    ],
+    "imagen": "/imagenes/general.jpeg",
+    "plantilla": "texto-derecha",
+    "formatotexto": "lista"
+  },
+  {
+    "id": 3,
+    "titulo": "Fundamentación y Contexto Local",
+    "texto": [
+      "Hay una necesidad apremiante de una transformación del modelo agroalimentario actual hacía un modelo más sustentable",
+      "Esta transformación, implica cambios transversales a nivel social",
+      "El rol docente: Constructores de puentes y replicadores de valores en la sociedad.",
+      "Hitos de la Agroecología en Misiones:",
+      " - El legado Mbya Guaraní (Yvyra Reta).",
+      " - Aportes históricos de Alberto Roth (chacras mixtas).",
+      " - Organizaciones de la Agricultura Familiar y Campesina: RAOM, FF, Movimientos de Semillas."
+    ],
+    "imagen": "/imagenes/img_1.jpg",
+    "plantilla": "texto-izquierda",
+    "formatotexto": "lista"
+  },
+  {
+    "id": 4,
+    "titulo": "Marco Normativo",
+    "texto": [
+      "Leyes Nacionales: Constitución Nacional (Art. 41), Ley de Educación Nacional N° 26.206 (Principios de educación ambiental).",
+      "Ley Provincial de Educación Ambiental (Ley XVI - N° 80).",
+      "Ley Provincial de Huertas Escolares (Ley IV – 210).",
+      "Ley Provincial de Agricultura Familiar (Ley VII - 69)."
+    ],
+    "imagen": "/imagenes/leyes.jpg",
+    "plantilla": "texto-izquierda",
+    "formatotexto": "lista"
+  },
+  {
+    "id": 5,
+    "titulo": "El Concepto de Agroecología",
+    "texto": [
+      "Una Ciencia: Estudia las interacciones de los componentes del agroecosistema",
+      "Un Conjunto de Prácticas: Busca sistemas sostenibles que optimizan y estabilizan la producción.",
+      "Un Movimiento Social: Promueve la justicia social, nutre la identidad cultural y refuerza la economía local."
+    ],
+    "imagen": "/imagenes/trama.jpeg",
+    "plantilla": "texto-derecha",
+    "formatotexto": "lista"
+  },
+  {
+    "id": 6,
+    "titulo": "Pedagogía Crítica y Educación Popular",
+    "texto": [
+      "Paradigma Crítico: Propone el aprendizaje a través de la acción y la reflexión sobre la propia práctica.",
+      "Contexto social: Partir siempre de la realidad y problemas que la comunidad vive cotidianamente.",
+      "Proceso formativo: Práctica -> Teorización -> Práctica transformadora."
+    ],
+    "imagen": "/imagenes/trama_2.jpeg",
+    "plantilla": "texto-derecha",
+    "formatotexto": "lista"
+  },
+  {
+    "id": 7,
+    "titulo": "Trayecto I: Actualización Académica",
+    "texto": [{"Modulo": "1. Bases conceptuales de la Agroecología", "Fechas": "04/06 -virtual-, 11/06 presencial y 25/06 virtual"},
+      {"Modulo": "2. La Educación Popular y la Agroecología", "Fechas": "02/07 -virtual-, 23/07 -virtual-, 30/07 presencial"},
+      {"Modulo": "3. El suelo, soporte de la fertilidad", "Fechas": "06/08 -virtual-, 13/08 -presencial-, 20/08 virtual"},
+      {"Modulo": "Trabajo Final Actualización Académica: Elaboración de Diagnóstico", "Fechas": ""},
+      {"Modulo": "Carga Horaria Total", "Fechas": "200 hs reloj"}
+    ],
+    "imagen": "/imagenes/practica2.jpeg",
+    "plantilla": "texto-derecha",
+    "formatotexto": "tabla"
+  },
+  {
+    "id": 8,
+    "titulo": "Trayecto II: Especialización Superior",
+    "texto": [{"Modulo": "4. Diseño Agroecológico y Manejo de Adversidades", "Fechas": "03/09 -virtual-, 10/09 presencial y 17/09 virtual"},
+      {"Modulo": "5. Gestión agroecosistémica y transición agroecológica", "Fechas": "01/10 -virtual-, 08/10 -presencial-, 15/10 virtual"},
+      {"Modulo": "Trabajo Final Especialización Superior (Diseño de un Proyecto Educativo)", "Fechas": ""},
+      {"Modulo": "Carga Horaria Total", "Fechas": "400 hs reloj"}
+    ],
+    "imagen": "/imagenes/practica.jpg",
+    "plantilla": "texto-izquierda",
+    "formatotexto": "tabla"
+  },
+  {
+    "id": 9,
+    "titulo": "Trayecto III: Diplomatura Superior",
+    "texto": [{"Modulo": "Soberanía Alimentaria y Economía Social", "Fechas": "29/10 -virtual-, 05/11 presencial y 12/11 virtual"},
+      {"Modulo": "Problemáticas Socioambientales y Derecho a la Alimentación", "Fechas": "01/10 -virtual-, 19/11 -virtal-, 26/11 presentación"},
+      {"Modulo": "Trabajo Final Diplomatura Superior (Diseño de un Proyecto Educativo)", "Fechas": "3 de Diciembre"},
+      {"Modulo": "Carga Horaria Total", "Fechas": "600 hs reloj"}],
+    "imagen": "/imagenes/cocina.jpg",
+    "plantilla": "texto-derecha",
+    "formatotexto": "tabla"
+  },
+  {
+    "id": 10,
+    "titulo": "Metodología y Modalidad de Dictado",
+    "texto": [
+      "Modalidad semi-presencial: Clases teóricas virtuales y encuentros prácticos presenciales.",
+      "Instancias Virtuales: Exposiciones con referentes de la temática y Exposición de Experiencias",
+      "Instancias Presenciales: Formato Taller, Prácticas (Diagnóstico del Suelo, Observación y Diseño de huerta, Elaboración de bioinsumos, Elaboración de Alimentos Saludables)"],
+    "imagen": "/imagenes/taller_suelo.jpg",
+    "plantilla": "texto-izquierda",
+    "formatotexto": "lista"
+  },
+  {
+    "id": 11,
+    "titulo": "Condiciones de Permanencia y Aprobación",
+    "texto": [
+      "Asistencia Mínima: 80% de asistencia obligatoria en clases presenciales y eventos sincrónicos virtuales.",
+      "Actividades no presenciales: Cumplimiento en tiempo y forma de lecturas y tareas a través de las plataformas.",
+      "Evaluación Procesal: Se medirá por el desempeño diario, la participación activa en los talleres y las entregas parciales."
+    ],
+    "imagen": "/imagenes/img_1.jpg",
+    "plantilla": "texto-izquierda",
+    "formatotexto": "lista"
+  },
+  {
+    "id": 12,
+    "titulo": "Los Trabajos Integradores Finales",
+    "texto": [
+      "Trayecto I: Informe descriptivo y diagnóstico de una parcela escolar (factores bióticos, abióticos e inserción en el PEI/PCI).",
+      "Trayecto II: Proyecto educativo basado en el diagnóstico anterior, formulando modelos de diseño y transición agroecológica.",
+      "Trayecto III: Ejecución, análisis e integración completa del proyecto con la comunidad educativa, sumando un marco teórico sólido."
+    ],
+    "imagen": "/imagenes/trabajo.jpeg",
+    "plantilla": "texto-izquierda",
+    "formatotexto": "lista"
+  },
+  {
+    "id": 13,
+    "titulo": "Eje Transversal: Sistematización de la Experiencia",
+    "texto": [
+      "¿Qué es?: Una herramienta pedagógica de la educación popular para teorizar desde la propia práctica.",
+      "Objetivo: Realizar un registro ordenado y reflexivo de lo vivido y aprendido durante la cursada.",
+      "Requisito: Se deberá llevar a cabo el registro grupal de al menos un módulo, basándose en la guía provista por el equipo docente."
+    ],
+    "imagen": "/imagenes/siste.jpg",
+    "plantilla": "texto-izquierda",
+    "formatotexto": "lista"
+  },
+  {
+    "id": 14,
+    "titulo": "Eje Transversal: La Mística Pedagógica",
+    "texto": [
+      "¿Qué es?: Un espacio de movilización emocional, cultural y de cohesión grupal.",
+      "Herramientas: Uso de símbolos, relatos, canciones, poesías o tradiciones ligadas a la temática de la tierra y la vida.",
+      "Requisito: Los estudiantes (en grupos) deberán planificar, proponer y ejecutar un espacio de mística en al menos un encuentro presencial."
+    ],
+    "imagen": "/imagenes/mistica.jpg",
+    "plantilla": "texto-izquierda",
+    "formatotexto": "lista"
+  },{
+    "id": 15,
+    "titulo": "Cuerpo Docente",
+    "texto": [
+      "Dirección: Ing. Agro. Villalba Franco, Lic. Viviana Reyes",
+      "Comite Académico Pedagógico: Ing. Agr. Sharim Lobo, Esp. Enso Ortt, Lic. Gerardo Segovia",
+      "Cuerpo Docente Interdisciplinario de diferentes unidades de la UNaM y Organizaciones Civiles",
+      "Docentes Invitados referentes en las tématicas del Postítulo"
+    ],
+    "imagen": "/imagenes/cerda.jpeg",
+    "plantilla": "texto-izquierda",
+    "formatotexto": "lista"
+  },
+  {
+    "id": 16,
+    "titulo": "Cuerpo Docente",
+    "texto":[
+  {
+    "Docente": "Ing. Agr. Franco Ramiro Villalba",
+    "Módulo": "Módulo 4"
+  },
+  {
+    "Docente": "Lic. Viviana Irene Reyes",
+    "Módulo": "Módulo 1, Trabajo de Integración de Trayectos 1, 2 y 3"
+  },
+  {
+    "Docente": "Esp. Enso Enrique Omar Ortt",
+    "Módulo": "Módulo 2, Módulo 3, Módulo 5"
+  },
+  {
+    "Docente": "Abg. José Luis Fuentes",
+    "Módulo": "Módulo 7"
+  },
+  {
+    "Docente": "Prof. Nadia Barbosa",
+    "Módulo": "Módulo 6, Trabajo de Integración de Trayectos 1, 2 y 3"
+  },
+  {
+    "Docente": "Prof. Rossana Celeste Lezcano Acuña",
+    "Módulo": "Módulo 1, Trabajo de Integración de Trayectos 1, 2 y 3"
+  },
+  {
+    "Docente": "Prof. Raúl González",
+    "Módulo": "Módulo 2, Módulo 4"
+  },
+  {
+    "Docente": "Ing. Agr. Noelia Rivaldi",
+    "Módulo": "Módulo 2"
+  },
+  {
+    "Docente": "Ing. Agr. Sharim Cynthia Lobo",
+    "Módulo": "Módulo 1, Módulo 2, Módulo 4"
+  },
+  {
+    "Docente": "Lic. Laura Vanesa Reyes",
+    "Módulo": "Módulo 1, Módulo 2, Módulo 5"
+  },
+  {
+    "Docente": "Ing. Agr. Stefan Seifert",
+    "Módulo": "Módulo 5, Trabajo de Integración de Trayectos 1, 2 y 3"
+  },
+  {
+    "Docente": "Ing. Agr. Juan Octavio D´addario Ferrou",
+    "Módulo": "Módulo 5"
+  },
+  {
+    "Docente": "Ing. Agr. Anahí Tamara Rauh",
+    "Módulo": "Módulo 4"
+  },
+  {
+    "Docente": "Ing. Ftal. Juan Mauricio Quezada Álvarez",
+    "Módulo": "Módulo 2"
+  },
+  {
+    "Docente": "Dra. Laura Andrea Kostlin",
+    "Módulo": "Módulo 6, Módulo 7"
+  },
+  {
+    "Docente": "Dra. Carolina Paola Trentini",
+    "Módulo": "Módulo 3"
+  },
+  {
+    "Docente": "Prof. Erwin Alonso Figueras",
+    "Módulo": "Módulo 1, Trabajo de Integración de Trayectos 1, 2 y 3"
+  },
+  {
+    "Docente": "Lic. Gerardo Segovia",
+    "Módulo": "Módulo 1, Módulo 2, Módulo 6"
+  },
+  {
+    "Docente": "Lic. Patricia Alejandra Lizarraga",
+    "Módulo": "Módulo 6, Módulo 7"
+  },
+  {
+    "Docente": "Lic. María Florencia Orlando",
+    "Módulo": "Módulo 6, Módulo 7"
+  }
+],
+    "imagen": "/imagenes/mistica_2.jpg",
+    "plantilla": "texto-izquierda",
+    "formatotexto": "tabla"
+  },
+  {
+    "id": 17,
+    "titulo": "Próximos Pasos y Espacio de Consultas",
+    "texto": [
+      "Trámites pendientes: Confirmar preinscripción en plataforma SIU Guaraní y carga de documentación (DNI, Título habilitante, Foto).",
+      "Vías de comunicación institucional: Sitio web (www.fcf.unam.edu.ar) e Instagram (@forestalesunam).",
+      "Espacio abierto para preguntas, dudas o comentarios.",
+      "¡Gracias por sumar su compromiso a esta propuesta transformadora!"
+    ],
+    "imagen": "/imagenes/portada.jpg",
+    "plantilla": "dos-columnas",
+    "formatotexto": "lista"
+  }
+]
