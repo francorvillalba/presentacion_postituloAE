@@ -237,6 +237,26 @@
 }
 
 
+/* === Responsive: apilar columnas en mobile === */
+@media (max-width: 768px) {
+  .template-texto-izquierda,
+  .template-texto-derecha {
+    grid-template-columns: 1fr;
+  }
+
+  .template-texto-derecha .texto-columna {
+    order: 2;
+  }
+
+  .template-texto-derecha .imagen-columna {
+    order: 1;
+  }
+
+  .slide img {
+    max-height: 200px;
+  }
+}
+
 @media (max-width: 480px) {
   .footer-logos {
     flex-direction: column;
